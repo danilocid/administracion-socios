@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "sivig-337e6": {
+      "hosting": {
+        "administracion-socios": [
+          "sivig-337e6"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "sivig-337e6"
+  }
+}
